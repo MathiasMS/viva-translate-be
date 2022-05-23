@@ -10,7 +10,6 @@ Viva translate API is the main backend service layer for viva translate challeng
 To start development, Please do the following. Note: this service depends on mongodb. So make sure you have installed in your computer.
 ### Configuration
 Add a .env file to the project in the base directory adding the following or use the defaults value.
-``` touch .env ```
 #### .env
 ```
 //Application variables
