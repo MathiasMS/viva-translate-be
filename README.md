@@ -7,7 +7,7 @@ Viva translate API is the main backend service layer for viva translate challeng
 - [Class Validator](https://github.com/typestack/class-validator) - Allows use of decorator and non-decorator based validation.
 
 ## Development
-To start developemnt, Please do the following. Note: this service depends on mongodb. So make sure you have installed in your computer.
+To start development, Please do the following. Note: this service depends on mongodb. So make sure you have installed in your computer.
 ### Configuration
 Add a .env file to the project in the base directory adding the following or use the defaults value.
 ``` touch .env ```
